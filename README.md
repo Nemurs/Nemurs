@@ -23,13 +23,13 @@
  <br>
  
 ### 📧 Connect with me!
-<a href="https://www.linkedin.com/in/alan-echenique/" target="_blank" >
+<a href="www.linkedin.com/in/kevin-octavio-mejia" target="_blank" >
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://wellfound.com/u/alan-echenique-1" target="_blank">
+<a href="https://wellfound.com/u/kevin-mejia-13" target="_blank">
    <img align="left"  src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" />
 </a>
-<a href="mailto:alancitttoo@gmail.com" target="_blank">
+<a href="mailto:kevinoctaviomejia@gmail.com" target="_blank">
    <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
