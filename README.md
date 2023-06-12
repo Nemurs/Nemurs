@@ -23,7 +23,7 @@
  <br>
  
 ### 📧 Connect with me!
-<a href="www.linkedin.com/in/kevin-octavio-mejia" target="_blank" >
+<a href="https://www.linkedin.com/in/kevin-octavio-mejia" target="_blank" >
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://wellfound.com/u/kevin-mejia-13" target="_blank">
